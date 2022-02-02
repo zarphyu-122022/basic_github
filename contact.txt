@@ -1,1 +1,2 @@
 This is contact text file.
+Somethin changes;
